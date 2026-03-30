@@ -1,0 +1,14 @@
+E:\Learn C#\Loop\bin\Debug\net10.0\Loop.exe
+E:\Learn C#\Loop\bin\Debug\net10.0\Loop.deps.json
+E:\Learn C#\Loop\bin\Debug\net10.0\Loop.runtimeconfig.json
+E:\Learn C#\Loop\bin\Debug\net10.0\Loop.dll
+E:\Learn C#\Loop\bin\Debug\net10.0\Loop.pdb
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.AssemblyInfoInputs.cache
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.AssemblyInfo.cs
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.csproj.CoreCompileInputs.cache
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.dll
+E:\Learn C#\Loop\obj\Debug\net10.0\refint\Loop.dll
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.pdb
+E:\Learn C#\Loop\obj\Debug\net10.0\Loop.genruntimeconfig.cache
+E:\Learn C#\Loop\obj\Debug\net10.0\ref\Loop.dll

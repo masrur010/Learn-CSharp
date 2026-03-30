@@ -1,0 +1,14 @@
+E:\Learn C#\MethodAndRecursion\bin\Debug\net10.0\MethodAndRecursion.exe
+E:\Learn C#\MethodAndRecursion\bin\Debug\net10.0\MethodAndRecursion.deps.json
+E:\Learn C#\MethodAndRecursion\bin\Debug\net10.0\MethodAndRecursion.runtimeconfig.json
+E:\Learn C#\MethodAndRecursion\bin\Debug\net10.0\MethodAndRecursion.dll
+E:\Learn C#\MethodAndRecursion\bin\Debug\net10.0\MethodAndRecursion.pdb
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.AssemblyInfoInputs.cache
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.AssemblyInfo.cs
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.csproj.CoreCompileInputs.cache
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.dll
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\refint\MethodAndRecursion.dll
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.pdb
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\MethodAndRecursion.genruntimeconfig.cache
+E:\Learn C#\MethodAndRecursion\obj\Debug\net10.0\ref\MethodAndRecursion.dll

@@ -1,0 +1,14 @@
+E:\Learn C#\ArithmeticOperators\bin\Debug\net10.0\ArithmeticOperators.exe
+E:\Learn C#\ArithmeticOperators\bin\Debug\net10.0\ArithmeticOperators.deps.json
+E:\Learn C#\ArithmeticOperators\bin\Debug\net10.0\ArithmeticOperators.runtimeconfig.json
+E:\Learn C#\ArithmeticOperators\bin\Debug\net10.0\ArithmeticOperators.dll
+E:\Learn C#\ArithmeticOperators\bin\Debug\net10.0\ArithmeticOperators.pdb
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.AssemblyInfoInputs.cache
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.AssemblyInfo.cs
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.dll
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\refint\ArithmeticOperators.dll
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.pdb
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ArithmeticOperators.genruntimeconfig.cache
+E:\Learn C#\ArithmeticOperators\obj\Debug\net10.0\ref\ArithmeticOperators.dll

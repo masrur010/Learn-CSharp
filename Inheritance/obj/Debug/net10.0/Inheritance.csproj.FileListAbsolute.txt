@@ -1,0 +1,14 @@
+E:\Learn C#\Inheritance\bin\Debug\net10.0\Inheritance.exe
+E:\Learn C#\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+E:\Learn C#\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+E:\Learn C#\Inheritance\bin\Debug\net10.0\Inheritance.dll
+E:\Learn C#\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.dll
+E:\Learn C#\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+E:\Learn C#\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+E:\Learn C#\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll
