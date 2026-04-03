@@ -1,7 +1,7 @@
 ﻿//WriteLine মানেই "লেখো এবং পরের line এ যাও"
 /*
 Console.WriteLine("Ami prothom line");
-Console.WriteLine("Ami dwitiyo line");
+Console.WriteLine("Ami ditiyo line");
 Console.WriteLine("Ami tritiyo line");*/
 
 //এখন ধরো তুমি চাও সব একই line এ থাকুক।
